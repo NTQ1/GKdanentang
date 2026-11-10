@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592815820747",
+    "project_id": "gkdanentang-32359",
+    "storage_bucket": "gkdanentang-32359.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592815820747:android:b6c320705c846da374f04e",
+        "android_client_info": {
+          "package_name": "com.example.gkdanentang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvd7sq0JZ-vVb3OQvR6Gukg5Zeu1KA41g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
